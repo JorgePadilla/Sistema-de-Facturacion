@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombre: MyString
+  fecha_de_ingreso: 2020-10-23
+  descripcion: MyString
+  costo: 9.99
+  cantidad_existente: MyString
+  categoria: MyString
+  estado: false
+  codigo_de_barra: MyString
+  proveedor: MyString
+
+two:
+  nombre: MyString
+  fecha_de_ingreso: 2020-10-23
+  descripcion: MyString
+  costo: 9.99
+  cantidad_existente: MyString
+  categoria: MyString
+  estado: false
+  codigo_de_barra: MyString
+  proveedor: MyString
